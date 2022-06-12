@@ -1,2 +1,8 @@
 # musical-tribble
-Contains Leetcode solutions
+Contains solutions to leetcode problems __*Topicwise*__
+
+|-----|-----|
+|BFS|link|
+
+
+
